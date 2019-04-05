@@ -23,6 +23,7 @@ section {
 
 .flex-column {
   flex-direction: column;
+}
 
 .flex-one {
   flex: 1;
